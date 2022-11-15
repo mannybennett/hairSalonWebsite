@@ -38,11 +38,6 @@
     margin: 0.1rem;
 }
 
-a:link, a:visited, a:active {
-    color: white;
-    text-decoration: none;
-}
-
 img {
     width: 100%;
 }
@@ -119,6 +114,15 @@ img {
 #socials {
     font-size: 2rem;
     margin-bottom: 1%;
+}
+
+.pages:hover {
+    background-color: rgba(255, 145, 0, 0.2);
+}
+
+a:link, a:visited, a:active {
+    color: white;
+    text-decoration: none;
 }
 
 #socials > a:link, #socials > a:visited, #socials > a:active {

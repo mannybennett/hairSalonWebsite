@@ -80,6 +80,10 @@ img {
     margin-bottom: 1%;
 }
 
+.pages:hover {
+    background-color: rgba(255, 145, 0, 0.2);
+}
+
 a:link, a:visited, a:active {
     color: white;
     text-decoration: none;
